@@ -11,7 +11,7 @@ Vitrine.Dev |     |
 | :sparkles: Nome        | **Projeto-Apeperia**
 | :label: Tecnologias | java, html, css, 
 | :rocket: URL         |https://www.figma.com/proto/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=15%3A0
-| :fire: Desafio     |https://github.com/Bruno-Meireles/Projeto-Apeperia.git
+| :fire: Desafio     |https://bruno-meireles.github.io/Apeperia/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Screenshot_5](https://user-images.githubusercontent.com/88012503/194077840-e10bf970-eb3f-4b82-a789-8e2335fe387e.png)
